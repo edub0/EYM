@@ -13,10 +13,10 @@ rules:
     min_entropy: 3.3
     confidence: medium
     examples:
-      - MERAKI_API_KEY=3beddf9cca7c041607857535ff05c63dea4b7bf5
+      - MERAKI_API_KEY=e8e821fd269f334df85cdefeda78bf62b85867c9
       - |-
           // Meraki configuration
-          const MERAKI_KEY = "d990a31b28ad40cb338e4153d2ef0f03c6be706f";
+          const MERAKI_KEY = "e8e821fd269f334df85cdefeda78bf62b85867c9";
     references:
       - https://developer.cisco.com/meraki/api-v1/overview/
     validation:
